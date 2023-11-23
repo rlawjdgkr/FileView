@@ -1,0 +1,11 @@
+D:\3B_Work\9th\sln_9\ProcessView\obj\Debug\FileView.csproj.AssemblyReference.cache
+D:\3B_Work\9th\sln_9\ProcessView\obj\Debug\FileView.csproj.SuggestedBindingRedirects.cache
+D:\3B_Work\9th\sln_9\ProcessView\obj\Debug\ProcessView.Form1.resources
+D:\3B_Work\9th\sln_9\ProcessView\obj\Debug\ProcessView.Properties.Resources.resources
+D:\3B_Work\9th\sln_9\ProcessView\obj\Debug\FileView.csproj.GenerateResource.cache
+D:\3B_Work\9th\sln_9\ProcessView\obj\Debug\FileView.csproj.CoreCompileInputs.cache
+D:\3B_Work\9th\sln_9\ProcessView\bin\Debug\ProcessView.exe.config
+D:\3B_Work\9th\sln_9\ProcessView\bin\Debug\ProcessView.exe
+D:\3B_Work\9th\sln_9\ProcessView\bin\Debug\ProcessView.pdb
+D:\3B_Work\9th\sln_9\ProcessView\obj\Debug\ProcessView.exe
+D:\3B_Work\9th\sln_9\ProcessView\obj\Debug\ProcessView.pdb
